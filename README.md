@@ -35,6 +35,27 @@ This dashboard combines data from Rides, Users, Drivers, and Ratings to analyze 
 ###  Dashboard Preview
 Uber User & Driver Dashboard
 
+<img width="966" height="641" alt="Capture UBER USER   DRIVER DASHBOARD" src="https://github.com/user-attachments/assets/87680047-50bb-4adc-85d7-bdb85460e7ee" />
+
+
+<img width="1312" height="679" alt="Capture UBER USER   DRIVER Data Query Cleaning 1" src="https://github.com/user-attachments/assets/81f1595f-c701-47ce-a178-c94e0c6c1292" />
+
+
+
+<img width="1236" height="665" alt="Capture UBER USER   DRIVER Data Query Cleaning 2" src="https://github.com/user-attachments/assets/e5ff0cfe-a9a7-4865-aae7-6d0b84626564" />
+
+
+
+<img width="1308" height="649" alt="Capture UBER USER   DRIVER Data Query Cleaning 3" src="https://github.com/user-attachments/assets/b2f4b623-23bc-4e7c-9823-3884dd332a57" />
+
+
+
+<img width="1316" height="661" alt="Capture UBER USER   DRIVER Data Query Cleaning 4" src="https://github.com/user-attachments/assets/786b83ca-2d98-4e12-a9a4-04538d1cd789" />
+
+
+
+<img width="1047" height="840" alt="Capture UBER USER   DRIVER RELATIONSHIP" src="https://github.com/user-attachments/assets/a55a01c5-d4d9-43af-adcf-f403d9a5f11d" />
+
 
 
 
