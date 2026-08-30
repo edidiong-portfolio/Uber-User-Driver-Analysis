@@ -60,12 +60,15 @@ Uber User & Driver Dashboard
 
 
 ### Tables Used
-#### Table Description
-* Rides	Contains ride, fare, distance, and cancellation data
-* Users	Contains customer information
-* Drivers	Contains driver and vehicle information
-* Ratings	Contains rider and driver ratings
-* #MeasureTable	Contains DAX measures
+
+| Table | Description |
+|---|---|
+| **Rides** | Ride, fare, distance, and cancellation data |
+| **Users** | Customer information |
+| **Drivers** | Driver and vehicle information |
+| **Ratings** | Rider and driver ratings |
+| **#MeasureTable** | DAX measures |
+
 
 ### Main Columns
 #### Rides
@@ -106,16 +109,18 @@ Driver ID
 Rating
 Rating Date
 
-#### Key Performance Indicators
-##### KPI	Result
-* 💰 Total Revenue	$350.74K
-* 👥 Total Users	5,000
-* 🚗 Total Drivers	2,000
-* 🚘 Vehicle Types	5
-* 🛣️ Rides Booked	20K
-* ⭐ Average Rating	 2.98/5
-* 📏 Average Miles	25.49
-* ⏱️ Average Duration	20.94 min
+## Key Performance Indicators
+
+| KPI | Result |
+|---|---:|
+| **Total Revenue** | **$350.74K** |
+| **Total Users** | **5,000** |
+| **Total Drivers** | **2,000** |
+| **Vehicle Types** | **5** |
+| **Rides Booked** | **20K** |
+| **Average Rating** | **2.98/5** |
+| **Average Miles** | **25.49** |
+| **Average Duration** | **20.94 min** |
 
 ### Key Insights
 * Revenue is relatively stable across different payment methods.
